@@ -1,0 +1,12 @@
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\bin\Debug\net48\Cursach.exe.config
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\bin\Debug\net48\Cursach.exe
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\bin\Debug\net48\Cursach.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\bin\Debug\net48\SortMethods.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\bin\Debug\net48\SortMethods.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.csprojAssemblyReference.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.AssemblyInfoInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.AssemblyInfo.cs
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.csproj.CopyComplete
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.exe
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\Cursach\obj\Debug\net48\Cursach.pdb

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\UserPRO\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\UserPRO\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Cursach.-1126898024.00" t="ExcludeRecursive" />
+    <e p="C:\Users\UserPRO\Desktop\копеі\АСД\Cursach" t="IncludeFlat">
+      <e p="Cursach" t="IncludeRecursive">
+        <e p="ArrayManager.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cursach.csproj" t="IncludeRecursive" />
+        <e p="FileManager.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net48" t="Include">
+              <e p="Cursach.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Cursach.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SortMethods" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BinaryTreeSort.cs" t="Include" />
+        <e p="MergeSort.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net48" t="Include">
+              <e p="SortMethods.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="QuickSort.cs" t="Include" />
+        <e p="SortMethods.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\bin\Debug\net48\SortMethods.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\bin\Debug\net48\SortMethods.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.csprojAssemblyReference.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.AssemblyInfoInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.AssemblyInfo.cs
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\Cursach\SortMethods\obj\Debug\net48\SortMethods.pdb
